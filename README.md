@@ -2,7 +2,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Wedyarit&show_icons=true&theme=radical)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wedyarit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![](https://readme-jokes.vercel.app/api)
+
 
 Here are some ideas to get you started:
 
