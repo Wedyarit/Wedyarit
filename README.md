@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Wedyarit&show_icons=true&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wedyarit&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wedyarit&layout=compact&theme=gruvbox)
 
 ![](https://readme-jokes.vercel.app/api)
 
