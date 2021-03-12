@@ -4,4 +4,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wedyarit&layout=compact&theme=dark)
 
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)
+![](https://github-profile-trophy.vercel.app/?username=Wedyarit&theme=darkhub)
