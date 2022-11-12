@@ -14,9 +14,9 @@
 ## 📖 About me
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-* 💻 | My name is Vyacheslav Poluboyartsev, I'm 17 years old.
-* 🎨 | I am completely passionate about backend development, graphs and also very interested in data analysis.
-* 📱 | I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends.
+* 💻 | My name is Vyacheslav Poluboyartsev, I'm 18 years old.
+* 🎨 | I am completely passionate about backend development, and any other kind of development, which I find interesting for me.
+* 📱 | I love listening to music :heartbeat: :notes:, watching movies, series and so on.
 * 🎓 | I strive for self-development and education.
 * :closed_book: | Ask from me anything you want, If I am alive I will answer within seconds. <br>
 * :gem: | I Always try to learn something new and then sleep till it store in the brain. <br><br>
@@ -39,8 +39,8 @@
 
 <p align="left">
   <a href="https://t.me/Wedyarit"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="vyacheslav.poluboyartsev@gmail.com"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://vk.com/weedyarit"><img alt="VK" title="VK" src="https://img.shields.io/badge/-VK-%232962FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
+   <a href="wedyarit@gmail.com"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://vk.com/wedyarit"><img alt="VK" title="VK" src="https://img.shields.io/badge/-VK-%232962FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </p>
 <br>
 
