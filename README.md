@@ -14,7 +14,7 @@
 ## 📖 About me
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-* 💻 | My name is Vyacheslav Poluboyartsev, I'm 18 years old.
+* 💻 | My name is Vyacheslav Poluboyartsev, I'm 19 years old.
 * 🎨 | I am completely passionate about backend development, and any other kind of development, which I find interesting for me.
 * 📱 | I love listening to music :heartbeat: :notes:, watching movies, series and so on.
 * 🎓 | I strive for self-development and education.
