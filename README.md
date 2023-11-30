@@ -15,11 +15,11 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 * 💻 | My name is Slava.
-* 🎨 | I am completely passionate about backend development, and any other kind of development, which I find interesting for me.
-* 📱 | I love listening to music :heartbeat: :notes:, watching movies, series and so on.
+* 🎨 | I am passionate about backend development, and any other kind of development, which I find interesting for me.
+* 📱 | I love watching movies, series and so on.
 * 🎓 | I strive for self-development and education.
 * :closed_book: | Ask from me anything you want, If I am alive I will answer within seconds. <br>
-* :gem: | I Always try to learn something new and then sleep till it store in the brain. <br><br>
+* :gem: | Embrace the wisdom of the waking hours, for in the realm of dreams, the mind organizes its treasures, turning knowledge into the keys that unlock the doors of tomorrow. <br><br>
  
 
 
